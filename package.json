@@ -31,7 +31,7 @@
     "@types/dom-webcodecs": "^0.1.11",
     "@types/node": "^22.5.5",
     "@types/wicg-file-system-access": "^2023.10.5",
-    "@vitest/coverage-v8": "^2.1.1",
+    "@vitest/coverage-v8": "^4.0.10",
     "@vitest/web-worker": "^2.1.1",
     "@webgpu/types": "^0.1.46",
     "jsdom": "^25.0.1",
